@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1594559010 source:c:\users\hossam\desktop\codeblocks\game3\main.cpp
+	"EventMaker.h"
+
+1594559186 c:\users\hossam\desktop\codeblocks\game3\eventmaker.h
+	"Shop.h"
+
+1595435472 source:c:\users\hossam\desktop\codeblocks\game3\eventmaker.cpp
+	"EventMaker.h"
+
+1594310655 source:c:\users\hossam\desktop\codeblocks\game3\enemy.cpp
+	"Enemy.h"
+
+1593386798 c:\users\hossam\desktop\codeblocks\game3\enemy.h
+
+1594393567 source:c:\users\hossam\desktop\codeblocks\game3\player.cpp
+	"Player.h"
+
+1594558019 c:\users\hossam\desktop\codeblocks\game3\player.h
+	<iostream>
+
+1594554980 c:\users\hossam\desktop\codeblocks\game3\shop.h
+	<stdio.h>
+	<stdlib.h>
+	<fstream>
+	<cstring>
+	<iostream>
+	<conio.h>
+	<string>
+	<utility>
+	<random>
+	<ctime>
+	<vector>
+	<cmath>
+	"Player.h"
+
+1594480373 source:c:\users\hossam\desktop\codeblocks\game3\shop.cpp
+	"Shop.h"
+
